@@ -5,7 +5,7 @@ I'm a software developer from Sri Lanka.
 
 I currently live in Maryland, Unites States.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahal-Kanishka)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahal-Kanishka&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm pretty handy with building end to end enterprise web applications. I'm experienced with Java, Python, Angular and MySql. Add to that I'm a certified Assosciate Solutions Architect for Amazon Web Services.
 
