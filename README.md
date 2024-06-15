@@ -19,6 +19,6 @@ My Website [rahalkanishka.com](https://www.rahalkanishka.com)
 
 <br>
 
-[<img src="./images/linkedIn.png"  width="48" style="margin-right:10px">](https://www.linkedin.com/in/rahaldanthanrayana)
-[<img src="./images/stackoverflow.png" width="48" style="margin-right:10px">](https://stackoverflow.com/users/4115587/rahal-kanishka)
-[<img src="./images/twitter.png" width="48" style="margin-right:10px">](https://twitter.com/rahalkanishka)
+[<img src="./images/linkedIn.png"  width="48" style="margin-right:15px">](https://www.linkedin.com/in/rahaldanthanrayana)
+[<img src="./images/stackoverflow.png" width="48" style="margin-right:15px">](https://stackoverflow.com/users/4115587/rahal-kanishka)
+[<img src="./images/twitter.png" width="48" style="margin-right:15px">](https://twitter.com/rahalkanishka)
