@@ -12,10 +12,13 @@ I'm pretty handy with building end to end enterprise web applications. I'm exper
 My recent focus is on Machine learning . And I'm reading for a Master's Degree at University of Towson Maryland. Had an awesome time learning and practising machine learning concepts so far. But I would appreciate any kind of guidance to focus my attention.
 
 📫 How to reach me: 
-- My Website [rahalkanishka.com](https://www.rahalkanishka.com)
-- [LinkedIn](https://www.linkedin.com/in/rahaldanthanrayana)
 <br>
-<img src="./images/linkedIn.png" width="48" style="margin-right:10px"><a href="https://www.linkedin.com/in/rahaldanthanrayana"></a></img>
-<img src="./images/linkedIn.png" width="48" style="margin-right:10px">
-<img src="./images/linkedIn.png" width="48" style="margin-right:10px">
 
+My Website [rahalkanishka.com](https://www.rahalkanishka.com)
+<br>
+
+<br>
+
+[<img src="./images/linkedIn.png"  width="48" style="margin-right:10px">](https://www.linkedin.com/in/rahaldanthanrayana)
+[<img src="./images/stackoverflow.png" width="48" style="margin-right:10px">](https://stackoverflow.com/users/4115587/rahal-kanishka)
+[<img src="./images/twitter.png" width="48" style="margin-right:10px">](https://twitter.com/rahalkanishka)
